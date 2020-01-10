@@ -16,7 +16,7 @@ terms of the MIT license.
 #include <stdbool.h>
 #include <string.h>
 #include <mimalloc.h>
-
+#error
 // > mimalloc-test-stress [THREADS] [SCALE] [ITER]
 //
 // argument defaults
